@@ -1,0 +1,20 @@
+{
+  "name": "piroll",
+  "version": "1.0.0",
+  "description": "An implementation of the piroll design",
+  "main": "index.html",
+  "scripts": {
+	  "dev:watch": "gulp css & serve"
+  },
+  "repository": "https://github.com/gpfaucher/piroll.git",
+  "author": "Gabriel Faucher <gpfaucher@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.4.0",
+    "serve": "^9.4.0"
+  }
+}
