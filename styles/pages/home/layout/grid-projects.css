@@ -1,0 +1,6 @@
+.projects-home {
+	display: grid;
+	grid-row: 3;
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-rows: repeat(3, 2fr);
+}
