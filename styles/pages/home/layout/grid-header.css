@@ -1,3 +1,4 @@
-.header-home {
+nav {
 	display: grid;
+	grid-template-columns: 1fr 5fr repeat(3, 1fr);
 }
