@@ -1,0 +1,14 @@
+.welcome-home {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center
+}
+
+.welcome-home h2 {
+	text-align: center;
+}
+
+.welcome-home p {
+	text-align: center;
+}
